@@ -3,6 +3,10 @@
 ```bash
 py -m ensurepip --upgrade
 python -m pip install --upgrade pip
+
+#uninstall:
+pip freeze >un.txt
+pip uninstall -r un.txt -y
 ```
 
 # CUDA
