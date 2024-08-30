@@ -32,30 +32,35 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 # Conda:
 
 #创建conda环境（Lion）, python版本（3.9）
+#create conda envirionment (named:Lion), python version 3.9
 
 ```bash
 conda create -n Lion python=3.9
 ```
 
 #进入conda环境（Lion）
+#login conda envirionment (Lion)
 
 ```bash
 conda activate Lion
 ```
 
 #退出当前conda环境
+#quit conda envirionment (Lion)
 
 ```bash
 conda deactivate
 ```
 
 #查看已经建立的conda环境
+#check the conda envirionments built
 
 ```bash
 conda info --envs
 ```
 
 #删除conda环境（Lion）
+#remove the conda envirionment Lion
 
 ```bash
 conda remove -n Lion --all
