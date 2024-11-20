@@ -15,7 +15,7 @@
 
 
 # 4.指标：
-### 4.1 MACD
+### 4.1 MACD的解释
 
       在结合交易量数据和MACD指标寻找TSLA股票的买入点时，我们可以通过以下方式分析：
 
@@ -42,7 +42,7 @@
       风险控制
       即便MACD和交易量结合形成了买入信号，也应保持谨慎。可以设定止损点，以防市场突发因素导致信号失效。
 
-### 4.2.MACD
+### 4.2.MACD的应用
 
   ![image](https://github.com/user-attachments/assets/b332c0d3-d712-469f-aed8-79a681aaaf40) 
   ![image](https://github.com/user-attachments/assets/8e22244d-d276-4919-9d04-cd632c1f7b37)
@@ -75,7 +75,7 @@
       单线MACD(26,12,1):
       快线DIF = 12EMA - 26EMA （两根均线差离值）
       
-#### 4.3 KDJ
+#### 4.3 KDJ的解释
 
       在结合交易量数据和KDJ指标寻找TSLA股票的买入点时，我们可以通过以下策略分析来判断适合的买入时机：
 
@@ -102,7 +102,7 @@
       时间点3：金叉后，成交量继续放大，尤其是买入量的持续增加，股价随之上行。
       在时间点2-3之间，买入信号已得到确认，这是较为合适的买入点。此时不仅有KDJ的金叉信号，还得到了交易量的支撑，表明多头势力进一步增强。
 
-### 4.3. Stochastic/KDJ Indicator 
+### 4.3. Stochastic/KDJ Indicator的应用 
 
 ![image](https://github.com/user-attachments/assets/c228e410-a5b6-49b4-9569-1ca071ebc6c2)
 ![image](https://github.com/user-attachments/assets/4f291509-3b3f-4f90-8e83-3f982148083f)
