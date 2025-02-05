@@ -126,6 +126,24 @@ https://pytorch.org/get-started/locally/
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
 ```
 
+Pytorch Verification:
+
+```bash
+PS C:\Users\Administrator> python
+Python 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import torch
+>>> x = torch.rand(5, 3)
+>>> print(x)
+tensor([[0.4658, 0.8027, 0.9882],
+        [0.9242, 0.8559, 0.3675],
+        [0.7256, 0.9710, 0.5072],
+        [0.4689, 0.7144, 0.4267],
+        [0.9941, 0.8599, 0.4571]])
+>>> torch.cuda.is_available()
+True
+```
+
 # Conda:
 
 #创建conda环境（Lion）, python版本（3.9）
