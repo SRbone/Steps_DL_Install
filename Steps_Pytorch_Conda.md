@@ -19,6 +19,7 @@ installation
   CUDA Toolkit and Minimum Required Driver Version for CUDA Minor Version Compatibility:
   
   https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html
+  
   https://developer.nvidia.com/cuda-12-6-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local
 
 
